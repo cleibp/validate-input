@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to right, #26d0ce, #1a2980);
+ }
+ 
+ input.error {
+   animation: shake .2s ease-in-out 0s 2;
+   border: solid 2px #dc2626; 
+ }
